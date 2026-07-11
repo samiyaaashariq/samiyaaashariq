@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=220&section=header&text=Samiya%20Shariq&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20Tech%20for%20Students%20%E2%9C%A8&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=220&section=header&text=Hi,%20I'm%20Samiya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20Tech%20for%20Students%20%E2%9C%A8&descAlignY=52&descSize=18" width="100%"/>
 
 <a href="https://github.com/samiyaaashariq">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Building+Tech+for+Students+%E2%9C%A8;React+%7C+Firebase+%7C+Java;Creator+of+SyncUp_%2C+StandOut+%26+PairMind;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
@@ -19,110 +19,84 @@
 
 <br/>
 
-## 👤 Who I Am
+### 💫 About Me
 
-```typescript
-const samiyaShariq = {
-  title: "B.Tech CSE Student",
-  focus: "Building Tech for Students",
-  stack: {
-    languages: ["HTML", "CSS", "JavaScript", "Java (Basic)"],
-    frontend: ["React.js", "React Router", "Responsive Web Design"],
-    backend: ["Firebase Authentication", "Cloud Firestore"],
-  },
-  launchedProjects: ["SyncUp_", "StandOut", "PairMind"],
-  certifications: [], // none listed yet
-  status: "Learning Data Structures & Algorithms 📚",
-  openTo: ["Internships", "Collaborations", "Open Source"],
-};
-```
+- 🎓 B.Tech CSE Student, passionate about **building tech that helps students**
+- 🛠️ Currently building with **React, Firebase & Java**
+- 🌱 Sharpening my fundamentals in **Data Structures & Algorithms**
+- 🚀 Shipped 3 projects — a collaboration platform, an AI resume analyzer, and a VS Code AI extension
+- 🤝 Open to **internships, collaborations & open source**
+- 📫 Reach me at **samiya.shariq31@gmail.com**
 
 <br/>
+
+<div align="center">
+
+### 🧰 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,firebase,git,github,vscode,vercel,netlify&theme=dark" />
+
+</div>
+
+<br/>
+
+---
 
 ## 🚀 Featured Projects
 
-### 🔗 SyncUp_
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 SyncUp_
 
 SyncUp helps students find teammates, showcase projects, and collaborate in real time — turning great ideas into real projects.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samiyaaashariq&repo=SyncUp_&theme=nord&border_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" alt="SyncUp_ Repo Card"/>
-</div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
-| Layer | Technology |
-|---|---|
-| Language | JavaScript |
-| Frontend | React.js, Responsive Web Design |
-| Backend/Database | Firebase Authentication, Cloud Firestore |
-| Hosting | Vercel |
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-a78bfa?style=for-the-badge&logoColor=white)](https://sync-up-fnl.vercel.app/)
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiyaaashariq/SyncUp_)
 
-**[🌐 Live](https://sync-up-fnl.vercel.app/)** · **[💻 Code](https://github.com/samiyaaashariq/SyncUp_)**
+</td>
+<td width="50%" valign="top">
 
-<br/>
-
-### 🔗 StandOut
+### 🔷 StandOut
 
 Turn any resume into an interview-ready application — AI-powered ATS scoring, keyword gaps, and job fit analysis, grounded in RAG.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samiyaaashariq&repo=StandOut&theme=nord&border_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" alt="StandOut Repo Card"/>
-</div>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/REST_API-a78bfa?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
-| Layer | Technology |
-|---|---|
-| Language | TypeScript |
-| Frontend | React.js |
-| Core Concepts | REST APIs, RAG-grounded Analysis |
-| Hosting | Vercel |
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-a78bfa?style=for-the-badge&logoColor=white)](https://stand-out-omega.vercel.app/)
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiyaaashariq/StandOut)
 
-**[🌐 Live](https://stand-out-omega.vercel.app/)** · **[💻 Code](https://github.com/samiyaaashariq/StandOut)**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
-
-### 🔗 PairMind
+### 🔷 PairMind
 
 An AI pair programmer for VS Code with chat, multi-provider LLM support (Ollama / OpenAI / Grok), and context-aware code actions.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samiyaaashariq&repo=PairMind&theme=nord&border_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" alt="PairMind Repo Card"/>
-</div>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code_Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
-| Layer | Technology |
-|---|---|
-| Language | TypeScript |
-| Platform | VS Code Extension |
-| AI Integration | Ollama, OpenAI, Grok (multi-provider LLMs) |
-| Tooling | Git, VS Code, Chrome DevTools |
+[![Release](https://img.shields.io/badge/🚀_Latest_Release-a78bfa?style=for-the-badge&logoColor=white)](https://github.com/samiyaaashariq/PairMind/releases/tag/v0.1.1)
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiyaaashariq/PairMind)
 
-**[🌐 Release](https://github.com/samiyaaashariq/PairMind/releases/tag/v0.1.1)** · **[💻 Code](https://github.com/samiyaaashariq/PairMind)**
+</td>
+<td width="50%" valign="top">
 
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-**Backend / Database**
-
-<img src="https://skillicons.dev/icons?i=firebase" />
-
-**Cloud / Hosting**
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
-
-**Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -145,12 +119,18 @@ An AI pair programmer for VS Code with chat, multi-provider LLM support (Ollama 
 
 <br/>
 
-## 🔗 Connect With Me
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiya-shariq-2805b3385)
 [![Email](https://img.shields.io/badge/Email-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiya.shariq31@gmail.com)
+
+<br/><br/>
+
+<i>Thanks for stopping by — always happy to connect over an interesting project 💜</i>
 
 </div>
 
